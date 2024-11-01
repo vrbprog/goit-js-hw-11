@@ -3,6 +3,8 @@ import SimpleLightbox from "simplelightbox";
 // Додатковий імпорт стилів
 import "simplelightbox/dist/simple-lightbox.min.css";
 
+const key = '46844494-ff9f555a2e638e0a9d57299e3';
+
 const images = [
   {
     preview:
